@@ -2,6 +2,7 @@
 - Git 基础用法
     - [Git安装](/devops/git/安装.md)
     - [操作流程](/devops/git/操作流程.md)
+    - [Git文件的状态](/devops/git/文件状态.md)
     - [创建版本库](/devops/git/创建版本库.md)
     - [提交](/devops/git/提交.md)
     - [分支介绍](/devops/git/分支介绍.md)
